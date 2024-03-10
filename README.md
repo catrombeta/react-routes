@@ -31,13 +31,13 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
    Após a instalação das dependências, execute o projeto com o seguinte comando:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    ou
 
    ```bash
-   yarn start
+   yarn run dev
    ```
 
 4. **Visualize o Aplicativo:**
