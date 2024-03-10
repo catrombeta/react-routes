@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    background-color: rgb(105, 105, 105);
+    display: flex;
+}
+
+.nav ul {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.nav ul li a:hover {
+    transition: 0.5s;
+    color: black;
+}
+
+.active {
+    background-color: white;
+}
+
+.active a {
+    color: black !important;
+}
