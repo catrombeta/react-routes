@@ -1,5 +1,3 @@
-Claro, vou te ajudar a criar a documentação para seu projeto com React Router. Vou começar criando uma descrição geral do projeto e, em seguida, explicarei como configurar e executar o projeto.
-
 ### Projeto de Exemplo com React Router
 
 Este é um projeto de exemplo simples desenvolvido com React Router para demonstrar como criar rotas em um aplicativo React. O projeto consiste em uma barra de navegação na parte superior e três páginas: Home, About e Contact. A barra de navegação permite que o usuário navegue entre essas páginas clicando nos links correspondentes.
