@@ -9,7 +9,7 @@ Para executar este projeto em sua máquina local, siga as etapas abaixo:
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone hhttps://github.com/catrombeta/react-routes.git
    ```
 
 2. **Instale as Dependências:**
